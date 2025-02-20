@@ -1,4 +1,4 @@
-import Scraper from "~/Scraper/scraper";
+import Scraper from "../Scraper/Scraper";
 import type { Route } from "./+types/home";
 
 export function meta({}: Route.MetaArgs) {
